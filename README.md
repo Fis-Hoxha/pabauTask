@@ -67,3 +67,12 @@ And then restarting them with the command:
 ```docker-compose up --build```
 
 If your laptop cannot handle Docker and/or if you do not have a working laptop at the moment, you have the option to take this interview task directly in our offices in Prishtina with one of our laptops. Please discuss the option with the recruiter to arrange it accordingly.
+
+
+
+
+
+
+From Fisi : 
+I dont know if it will automatically install cors so please do npm install cors.
+the homepage sometimes needs to be refreshed after creating a booking as i didnt make any state control implementations.
